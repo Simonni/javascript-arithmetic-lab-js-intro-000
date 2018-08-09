@@ -18,8 +18,8 @@ function dec(n){
   return n-=1;
 }
 function makeInt(n){
-  parseInt(n, 0);
-  return parseInt('simon!', 0);
+  console.log('argument', n);
+  return parseInt(n, 10);
 }
 
 function preserveDec(n){
