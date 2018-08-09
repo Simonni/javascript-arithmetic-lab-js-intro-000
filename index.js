@@ -26,3 +26,4 @@ function preserveDec(n){
   parseFloat(n);
   parseFloat('simon!');
 }
+makeInt('2');
