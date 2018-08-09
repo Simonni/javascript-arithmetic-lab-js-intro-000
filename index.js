@@ -18,7 +18,6 @@ function dec(n){
   return n-=1;
 }
 function makeInt(n){
-  console.log('argument', n);
   return parseInt(n, 10);
 }
 
@@ -26,4 +25,3 @@ function preserveDec(n){
   parseFloat(n);
   parseFloat('simon!');
 }
-makeInt('2');
