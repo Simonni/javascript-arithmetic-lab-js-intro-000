@@ -21,7 +21,7 @@ function makeInt(n){
   return parseInt(n, 10);
 }
 
-function preserveDec(n){
+function preserveDecimal(n){
   parseFloat(n);
   parseFloat('simon!');
 }
