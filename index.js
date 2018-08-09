@@ -22,6 +22,6 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  parseFloat(n);
-  parseFloat('simon!');
+  console.log(parseFloat(n));
+  return parseFloat('simon!');
 }
